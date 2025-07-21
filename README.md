@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Контакты
-- 🔗 **Telegram:** [@Anton_Belgorod](https://t.me/Anton_Belgorod
+- 🔗 **Telegram:** [@Anton_Belgorod](https://t.me/Anton_Belgorod)
 - 📧 **Email:** [aksfan91@gmail.com](mailto:aksfan91@gmail.com)
 - 📧 **Email:** [aksfan91@yandex.ru](mailto:aksfan91@yandex.ru)
 
